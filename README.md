@@ -20,6 +20,8 @@ The sales performance dashboard offers a comprehensive view of overall business 
 
  __Key Metrics Summary__
 
+![Image](https://github.com/user-attachments/assets/40144bcd-46d4-43c0-a9cf-baa0a527adb6)
+
 Metric	Value	MoM Growth
 Total Revenue	$6,517,674.00	▲ 4.50%
 Total Orders	25,728	▲ 4.47%
