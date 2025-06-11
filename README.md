@@ -46,21 +46,14 @@ __Top Revenue-Contributing Product Categories__
 
 __Revenue Distribution Across Customer Segments__
 
-Consumer segment leads with $3.84M (58.93%).
-
-Followed by Corporate ($2.15M, 32.94%) and Self-Employed ($0.53M, 8.13%).
+![Image](https://github.com/user-attachments/assets/966654ba-2fe7-4e8e-87ec-3c059e221461)
 
 👥 Targeting Consumers continues to be the most profitable strategy.
 
 
 __Market Revenue Contributions__
 
-Region	Revenue	Share
-Asia Pacific	$1.83M	28.1%
-LATAM	$1.49M	22.82%
-Africa	$1.37M	21.05%
-USCA	$1.34M	20.56%
-Europe	$0.49M	7.47%
+![Image](https://github.com/user-attachments/assets/0131f24e-96e6-4802-b90c-5409508a2fba)
 
 🌍 Asia Pacific and LATAM lead in regional revenue, contributing over 50% combined.
 
@@ -82,17 +75,14 @@ Southeast Asia	$0.42M
 ######  __Key Metrics Summary__
 This page gives a detailed view of the company’s profitability metrics, highlighting total profit, margin trends, and key contributing categories and markets. While profits have grown, there are challenges in maintaining margin consistency, and certain categories are underperforming.
 
-Metric	Value	MoM Change
-Total Profit	$1,065,413.65	▲ 3.13%
-Profit Margin	$0.16	▼ 1.31%
-Avg. Profit per Order	$41.41	▼ 1.27%
-Orders with Discount	12,402	▲ 4.54%
+![Image](https://github.com/user-attachments/assets/554f5b33-5ac1-4731-a770-dd32105bde59)
 
 
 📌 Profit is increasing, but average profit per order and margins are slightly declining—possibly due to higher discount rates.
 
 
 __Monthly Profit Trend__
+
 
 
 Peak profits observed in December ($132K) and November ($127K).
