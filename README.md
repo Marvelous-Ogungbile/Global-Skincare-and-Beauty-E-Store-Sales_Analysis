@@ -22,16 +22,11 @@ The sales performance dashboard offers a comprehensive view of overall business 
 
 ![Image](https://github.com/user-attachments/assets/40144bcd-46d4-43c0-a9cf-baa0a527adb6)
 
-Metric	Value	MoM Growth
-Total Revenue	$6,517,674.00	▲ 4.50%
-Total Orders	25,728	▲ 4.47%
-Quantity Sold	277,778 units	▲ 4.31%
-Average Order Value (AOV)	$253.33	▲ 0.04%
-
 📌 All primary sales indicators show positive month-over-month (MoM) growth, suggesting an upward trend in both customer acquisition and sales efficiency.
 
 
-__Monthly Revenue Trend__
+__Monthly Revenue Trend__  
+![Image](https://github.com/user-attachments/assets/90af17a7-23b7-476a-8810-e52468e0da83) 
 
 Revenue peaks in December ($830K) and November ($796K), indicating strong year-end performance—likely due to seasonal demand or promotions.
 
@@ -40,16 +35,14 @@ Lowest performance observed in February ($283K).
 The second quarter (Apr-Jun) shows significant growth, peaking in June ($698K).
 
 
-__Top Revenue-Contributing Categories__
+__Top Revenue-Contributing Product Categories__
 
-Category	Revenue
-Body Care	$2.7M
-Home & Accessories	$1.2M
-Make Up	$1.1M
-Hair Care	$1.0M
-Face Care	$0.4M
+![Image](https://github.com/user-attachments/assets/a3820865-badc-46cb-8844-256e10b00ddf)
 
 🔍 Body Care dominates category revenue generation, contributing over 41% of the total.
+🔍 Nails care product is the best revenue generating product subcategory.
+🔍 Also Herbal Essences Bio is the most revenue generating product.
+
 
 __Revenue Distribution Across Customer Segments__
 
